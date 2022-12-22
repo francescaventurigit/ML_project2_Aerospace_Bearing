@@ -14,7 +14,7 @@ Girolamo Vurro: [@girolamovurro14](https://github.com/girolamovurro14)
 
 Francesca Venturi: [@francescaventurigit](https://github.com/francescaventurigit)
 
-Tommaso Farnararo: @tommasofarnararo
+Tommaso Farnararo: [@tommasofarnararo] (https://github.com/tommasofarnararo)
 
 It is supervised by the Post-doc Dimitri Maurice Goutaudier and the PhD students Matteo Raviola and Andrea Zanoni, from the Scientific Computing and Uncertainty Quantification (CSQI) Laboratory, led by Professor Fabio Nobile.
 
