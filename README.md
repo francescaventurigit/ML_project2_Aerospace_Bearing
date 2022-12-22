@@ -1,6 +1,7 @@
 # Aerospace Bearing - Machine Learning (CS-433)
 The repository contains all the material used to carry out the Machine Learning (CS-433) Project 2 and it is organized as follows:
  - useful documentation and references consulted during the project (`documentation` folder)
+ - datasets provided (`data` folder)
  - the code needed to implement linear regression on the aerodynamic force (`linear regression` folder)
  - the code needed to implement a Fully Connected Forward Neural Network on the aerodynamic force (`fnn` folder)
  - the code needed to implement a Convolutional Neural Network on the aerodynamic force (`cnn` folder)
