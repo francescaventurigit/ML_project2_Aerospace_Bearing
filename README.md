@@ -48,4 +48,4 @@ The project is developed and tested with `python3.8.10`. The required library fo
 The results obtained are quite satisfying, reaching a test error of the order of 10^-6 and a relative error of 0.2% and a delay parameter d=100.
 
 ## Robustness
-Finally, the optimal model is trained on a brand new dataset, whose observations are generated from 9 different sets of parameters. This stage of the project aims at cheching the robustness of the model when it comes to varying the parameters that characterize the observations. Provided the limited number of new observations for every set of parameters, results are still satifying: the test error is XXX and the relative one is XXX
+Finally, the optimal model is trained on a brand new dataset, whose observations are generated from 9 different sets of parameters. This stage of the project aims at cheching the robustness of the model when it comes to varying the parameters that characterize the observations. Provided the limited number of new observations for every set of parameters, results are still satifying.
